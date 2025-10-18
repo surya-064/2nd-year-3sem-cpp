@@ -23,10 +23,11 @@ name = n;
  };
  int main()
   { 
-Student s1("VALLIKA",101);
+Student s1("surya",101);
  s1.display(); 
-Student s2("PRAZNA", 102);
+Student s2("subhash", 102);
  s2.display(); 
 cout << "End of main function." << endl; 
 return 0; 
 }
+
